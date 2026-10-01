@@ -384,7 +384,7 @@ codeinsights = [
 ]
 
 lmkt = [
-    "sentence_transformers~=4.1",
+    "sentence_transformers~=5.6",
 ]
 
 # Install everything
