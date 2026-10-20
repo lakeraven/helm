@@ -278,7 +278,7 @@ pydload==1.0.9
 pyflakes==2.5.0
 pygments==2.19.2
 pyhocon==0.3.61
-pymongo==4.13.2
+pymongo==4.18.2
 pyparsing==3.2.3
 pypinyin==0.49.0
 pyreadline3==3.5.4 ; sys_platform == 'win32'

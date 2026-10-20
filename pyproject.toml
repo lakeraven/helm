@@ -124,7 +124,7 @@ images = [
 ]
 
 mongo = [
-    "pymongo~=4.2",
+    "pymongo~=4.18",
 ]
 
 unitxt = [
