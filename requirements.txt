@@ -265,7 +265,7 @@ protobuf==5.29.5 ; python_full_version < '3.13'
 psutil==7.0.0
 pyarrow==21.0.0
 pyarrow-hotfix==0.7
-pyasn1==0.6.1
+pyasn1==0.6.5
 pyasn1-modules==0.4.2
 pycares==4.9.0
 pycocoevalcap==1.2
